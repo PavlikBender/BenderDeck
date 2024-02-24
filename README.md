@@ -1,5 +1,5 @@
 # BenderDeck 3.0
-Бесплатное приложение для воспроизведения звуков по нажатию клавиш, для стримеров.
+Бесплатное приложение для воспроизведения звука по нажатию клавиши, для стримеров.
 ### [:arrow_right: Скачать последнюю версию](https://github.com/PavlikBender/BenderDeck/releases/download/v3.0/BenderDeckSetup.msi)
 #### Не забудьте поддержать меня: [DonationAlerts](https://www.donationalerts.com/r/pavlikbender) 
 
