@@ -4,6 +4,26 @@
 #### Не забудьте поддержать меня: [DonationAlerts](https://www.donationalerts.com/r/pavlikbender) 
 &nbsp;
 ## Быстрый старт
+![](/Screenshots/1.png)
+
+![](/Screenshots/2.png)
+
+![](/Screenshots/3.png)
+
+![](/Screenshots/4.png)
+
+![](/Screenshots/5.png)
+
+![](/Screenshots/6.png)
+
+![](/Screenshots/7.png)
+
+![](/Screenshots/8.png)
+
+![](/Screenshots/9.png)
+
+![](/Screenshots/10.png)
+
 ## Описание
 ## Известные баги
 ## Часто задаваемые вопросы
