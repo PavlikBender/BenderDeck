@@ -33,7 +33,7 @@ You can report them on my [Discord](https://discord.com/invite/gaVrv6k).
 
 ![](/Screenshots/2.png)
 
-3. Click on "Add Button" to add the desired number of buttons.
+3. Click on "Add button" to add the desired number of buttons.
 
 ![](/Screenshots/3.png)
 
@@ -82,7 +82,7 @@ Before diving into the interface description, it's important to note that the wi
 ### Settings Menu
 ![](/Screenshots/D2.png)
 
-1. Action "Add Button" adds an empty button to the button grid.
+1. Action "Add button" adds an empty button to the button grid.
 2. Adjusting the number of columns in the button grid.
 3. Property enabling the application to stay on top of all windows.
 4. Setting the current language of the application - English and Russian languages are supported.
