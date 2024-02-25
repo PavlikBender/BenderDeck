@@ -126,4 +126,4 @@
 ## Связь со мной
 Если у вас появились вопросы по приложению, вы можете их задать в моем [Discord-е](https://discord.com/invite/gaVrv6k).
 
-<sub>*Теги: Бесплатный StreamDeck, Stream Deck, Soundboard, Sound board, Free StreamDeck, Stream Deck аналоги, StreamDeck аналоги, OBS, для стримеров, горячая клавиша, hotkey, sound effects, Play SFX with hotkeys*</sub>
+<sub>*Теги: Бесплатный StreamDeck, Stream Deck, Soundboard, Sound board, Free StreamDeck, Stream Deck аналоги, StreamDeck аналоги, OBS, для стримеров, горячая клавиша, hotkey, sound effects, Play SFX with hotkeys, Soundpad, Soundpad аналоги*</sub>
