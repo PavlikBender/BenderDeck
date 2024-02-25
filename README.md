@@ -1,9 +1,11 @@
 # ![](/Screenshots/Square44x44Logo.altform-lightunplated_targetsize-32.png) BenderDeck 3.0 Beta
 Бесплатное приложение для воспроизведения звука по нажатию клавиши для стримеров.
 ### [:arrow_right: Скачать последнюю версию](https://github.com/PavlikBender/BenderDeck/releases/download/v3.0/BenderDeckSetup.msi)
+### [:arrow_right: Скачать portable версию](https://github.com/PavlikBender/BenderDeck/releases/download/v3.0/BenderDeck.3.0.Portable.zip)
 #### Не забудьте поддержать меня: [DonationAlerts](https://www.donationalerts.com/r/pavlikbender) 
 
 **Внимание!** Приложение находится в стадии Beta и могут наблюдаться некоторые баги. Сообщить о них можно в моем [Discord-е](https://discord.com/invite/gaVrv6k).
+Portable версия запускается через файл BenderDeck.exe.
 ## Известные баги
 1. Windows Defender может ругаться при скачивании установочного файла, необходимо отключить защиту в реальном времени и облачную защиту.
 2. Предположительно некоторые антивирусы могут ругаться на приложение, так как оно перехватывает нажатие клавиш. Необходимо добавить приложение в исключения антивируса.
