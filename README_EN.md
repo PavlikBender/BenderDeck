@@ -1,144 +1,139 @@
 # ![](/Screenshots/Square44x44Logo.altform-lightunplated_targetsize-32.png) BenderDeck 3.0 Beta
-Бесплатное приложение для воспроизведения звука по нажатию клавиши для стримеров.
-### [:arrow_right: Скачать последнюю версию](https://github.com/PavlikBender/BenderDeck/releases/download/v3.0/BenderDeckSetup.msi)
-### [:arrow_right: Скачать portable версию](https://github.com/PavlikBender/BenderDeck/releases/download/v3.0/BenderDeck.3.0.Portable.zip)
+Free soundboard app for streamers for playing sound effects with the press of a key.
+### [:arrow_right: Download the latest version](https://github.com/PavlikBender/BenderDeck/releases/download/v3.0/BenderDeckSetup.msi)
+### [:arrow_right: Download the portable version](https://github.com/PavlikBender/BenderDeck/releases/download/v3.0/BenderDeck.3.0.Portable.zip)
 
-*Portable версия запускается через файл BenderDeck.exe*
+*The portable version is launched through the file BenderDeck.exe*
 
-#### Не забудьте поддержать меня: [DonationAlerts](https://www.donationalerts.com/r/pavlikbender) 
+#### Don't forget to support me: [DonationAlerts](https://www.donationalerts.com/r/pavlikbender) 
 
-### **Внимание!** Приложение находится в стадии Beta и могут наблюдаться некоторые баги и проблемы. 
+### **Attention!** The application is in the Beta stage, and some bugs and issues may occur.
 
-Сообщить о них можно в моем [Discord-е](https://discord.com/invite/gaVrv6k).
+You can report them on my [Discord](https://discord.com/invite/gaVrv6k).
 
-## Известные баги
-1. Windows Defender может ругаться при скачивании установочного файла, необходимо отключить защиту в реальном времени и облачную защиту. **ИЛИ СКАЧАЙТЕ PORTABLE ВЕРСИЮ.** Такое поведение связано с неподписанным установщиком, подпись стоит 20-30к рублей в год, а приложение бесплатное.
-2. **Предположительно, может быть, это не точно, НО** некоторые антивирусы **могут** ругаться на приложение, так как оно ПЕРЕХВАТЫВАЕТ нажатие клавиш, что антивирус **может** расценить неправильно. Если ты столкнулся с этой проблемой её можно решить добавив приложение в исключения антивируса.
+### Known Bugs
+1. Windows Defender may prevent downloading the installation file; you can resolve the issue by disabling real-time protection and cloud protection. **OR DOWNLOAD THE PORTABLE VERSION**. This behavior is due to the installer being unsigned; a digital signature is costly for me, and do not forget the application is free.
+2. **Presumably, it might be, not exactly, BUT** some antivirus programs **may** flag the application because it INTERCEPTS keystrokes, which the antivirus **may** interpret incorrectly. If you encounter this problem, you can solve it by adding the application to the antivirus exceptions.
 
-## Оглавление
-- [Быстрый старт](#быстрый-старт)
-- [Описание](#описание)
-  - [Сетка кнопок](#сетка-кнопок)
-  - [Меню настроек](#меню-настроек)
-  - [Свойства кнопки](#свойства-кнопки)
-- [Часто задаваемые вопросы](#часто-задаваемые-вопросы)
-- [Связь со мной](#связь-со-мной)
+## Table of Contents
+- [Quick Start](#quick-start)
+- [Description](#description)
+  - [Button Grid](#button-grid)
+  - [Settings Menu](#settings-menu)
+  - [Button Properties](#button-properties)
+- [F.A.Q.](#frequently-asked-questions)
+- [Contact Me](#contact-me)
 
-## Быстрый старт
-1. Открой приложение.
+### Quick Start
+1. Open the application.
 
 ![](/Screenshots/1.png)
 
-2. По кнопке в верхнем левом углу, открой меню настроек.
+2. Click the settings menu button in the top left corner to open the settings.
 
 ![](/Screenshots/2.png)
 
-3. По действию "Добавить кнопку", добавь необходимое количество кнопок.
+3. Click on "Add Button" to add the desired number of buttons.
 
 ![](/Screenshots/3.png)
 
-4. Настрой количество колонок, для удобного отображения.
+4. Adjust the number of columns for better display.
 
 ![](/Screenshots/4.png)
 
-5. Нажми на добавленную кнопку для её настройки.
+5. Click on the added button to configure it.
 
 ![](/Screenshots/5.png)
 
-6. Укажи горячую клавишу, по которой будет воспроизводится звуковой файл.
+6. Specify the hotkey that will play the audio file.
 
 ![](/Screenshots/6.png)
 
-7. Укажи звуковой файл, который будет воспроизводится по нажатию клавиши.
+7. Specify the audio file to be played when the key is pressed.
 
 ![](/Screenshots/7.png)
 
-8. Настрой остальные кнопки.
+8. Configure the remaining buttons.
 
 ![](/Screenshots/8.png)
 
-9. Закрой меню настроек. Приложение настроено.
+9. Close the settings menu. The application is now configured.
 
 ![](/Screenshots/9.png)
 
-10. Нажми на горячую клавишу или кликни по настроенной кнопке.
+10. Press the hotkey or click on the configured button.
 
 ![](/Screenshots/10.png)
 
-## Описание
+### Description
 
-Я написал это приложение, что бы помочь стримерам разнообразить их стримы.
-Приложение позволяет мгновенно воспроизвести любой твой звуковой файл по нажатию клавиши клавиатуры или клику мышкой.
+I created this application to help streamers diversify their streams. The application allows you to instantly play any of your audio files by pressing a key on the keyboard or clicking with the mouse.
 
-Перед тем как перейти к описанию интерфейса, нужно заметить, что размеры окна строго фиксированы и меняются автоматически от количества кнопок, настроенных колонок и т.д.
+Before diving into the interface description, it's important to note that the window sizes are strictly fixed and adjust automatically based on the number of buttons, columns configured, etc.
 
-### Сетка кнопок
+### Button Grid
 ![](/Screenshots/D1.png)
 
-1. Кнопка открывающая меню настроек.
-2. Базовый элемент приложения - Кнопка. Кнопка кликабельна, а также её можно передвигать. Отображает своё наименование и настроенную горячую клавишу (оба свойства могут быть пустыми). 
-3. Кнопка, которая в данный момент воспроизводит звуковой файл. Воспроизведение происходит при нажатии горячей клавиши или клику мышкой.
-По умолчанию при повторном нажатии горячей клавиши произойдет воспроизведение звука сначала, но при повторном клике мышкой воспроизведение остановится.
-5. Кнопка, которая в данный момент воспроизводит звуковой файл, одновременно с основной кнопкой т.е. с включенным свойством "Воспроизводить отдельно".
+1. Button that opens the settings menu.
+2. The basic element of the application is a Button. The Button is clickable and draggable. It displays its label and configured hotkey (both properties can be empty).
+3. Button currently playing an audio file. Playback occurs when the hotkey is pressed or when clicked with the mouse. By default, pressing the hotkey again will replay the sound from the beginning, but clicking the mouse again will stop playback.
+5. Button currently playing an audio file simultaneously with the main button, i.e., with the "Individual playback" property enabled.
 
-### Меню настроек
+### Settings Menu
 ![](/Screenshots/D2.png)
 
-1. Действие "Добавить кнопку", добавляет пустую кнопку в сетку с кнопками.
-2. Регулировка количества колонок в сетке кнопок.
-3. Свойство включающее возможность приложения быть поверх всех окон.
-4. Настройка текущего языка приложения - поддерживаются Русский и Английский языки.
-5. Ссылка на страницу приложения.
-6. (X) Действие удаление кнопки.
+1. Action "Add Button" adds an empty button to the button grid.
+2. Adjusting the number of columns in the button grid.
+3. Property enabling the application to stay on top of all windows.
+4. Setting the current language of the application - Russian and English languages are supported.
+5. Link to the application's page.
+6. (X) Action to delete a button.
 
 ![](/Screenshots/D4.png)
 
-Все кнопки в сетке можно передвигать, а также при клике на кнопку в режиме редактирования, открывается окно свойства кнопки.
+All buttons in the grid can be moved, and when clicked on a button in edit mode, the button properties window opens.
 
-### Свойства кнопки
+### Button Properties
 ![](/Screenshots/D3.png)
 
-1. Наименование кнопки, может быть пустым.
-2. Поле настройки горячей клавиши. По действию "Назначить" открывается окно назначения горячей клавишы. По действию "Очистить" горячая клавиша очищается.
-При этом если горячая клавиша не указана, но указан звуковой файл, кнопка воспроизведётся по клику мышкой.
-4. Поле настройки звукового файла для воспроизведения, По действию "Выбрать" открывается окно выбора файла в формате mp3 и wav, если наименование кнопки пустое, автоматически заполняется именем файла. По действию "Очистить" свойство "Имя файла" очищается.
-5. Громкость воспроизведения звукового файла, по умолчанию - 50 из 100.
-6. Функция "Старт-Стоп", определяет поведение играющей кнопки при повторном нажатии горячей клавиши. По умолчанию воспроизведение начинается заново, при включенной функции "Старт-Стоп", повторное нажатие останавливает воспроизведение.
-7. Функция "Воспроизводить отдельно", определяет как будет воспроизводится кнопка. По умолчанию когда воспроизводится первая кнопка, при нажатии второй кнопки, воспроизведение первой кнопки прекращается, начинается воспроизведение второй.
-При включенной функции "Воспроизводить отдельно", воспроизведение первой кнопки не прекращается и при это начинается воспроизведение второй кнопки. При помощи этой функции можно реализовать воспроизведение нескольких кнопок одновременно.
+1. Button Name, which can be empty.
+2. Hotkey setting field. Clicking "Set" opens the hotkey assignment window. Clicking "Clear" clears the hotkey. If no hotkey is specified but an audio file is named, the button will play upon mouse click.
+4. Audio file selection field for playback. Clicking "Choose" opens a file selection window for MP3 and WAV formats. If the button name is empty, it is automatically filled with the file name. Clicking "Clear" clears the "Filename" property.
+5. Playback volume of the audio file, defaulting to 50 out of 100.
+6. "Start-Stop" function determines the behavior of a playing button when the hotkey is pressed again. By default, playback restarts, but with "Start-Stop" enabled, another press stops playback.
+7. "Individual playback" function defines how the button will play. By default, when a button is playing and another is clicked, the first stops and the second starts. With "Individual playback" enabled, the first button continues playing alongside the second. This feature allows for playing multiple buttons simultaneously.
 
-## Часто задаваемые вопросы
+## Frequently Asked Questions
 
-**Q.** При нажатии горячей клавиши звук не воспроизводится.
+**Q**: The sound does not play when I press the hotkey.
 
-**A.** Выбери заново звуковой файл. Проверь установленную громкость. В некоторых случаях приложение не может перехватить нажатую клавишу, поэтому попробуй запустить приложение от имени администратора.
+**A**: Try selecting the audio file again. Check the volume settings. In some cases, the application might not capture the pressed key, so try running the application as an administrator.
 
-**Q.** Есть ли в приложении Русский язык?
+**Q**: Does the application support the Russian language?
 
-**A.** Да, его можно включить в левом нижнем углу меню настроек.
+**A**: Yes, you can enable it in the settings menu at the bottom left corner.
 
-**Q.** Почему Windows Defender и антивирусы ругаются на твоё приложение?
+**Q**: Why do Windows Defender and antivirus programs flag your application?
 
-**A.** Windows Defender ругается при скачивании установочного файла, для решения проблемы отключи защиту в реальном времени и облачную защиту или скачай portable версию. Причина такого поведения, установщик нужно подписывать сертификатом, который стоит 20-30к рублей в год, а приложение бесплатное. Антивирус может ругаться на приложение т.к. оно перехватывает нажатие клавиш. Решение: добавь приложение в исключения антивируса.
+**A**: Windows Defender flags the installation file. To resolve this, disable real-time and cloud protection or download the portable version. This behavior is due to the installer lacking a certificate, which costs a lot while the application is free. Antivirus programs may flag the application because it intercepts keystrokes. Solution: add the application to the antivirus exceptions.
 
-**Q.** Есть *ПриложениеНейм* оно легче, у него лучше функциональность, почему я должен использовать твоё приложение?
+**Q:** There is *APP NAME*, which is lighter and has better functionality. Why should I use your application?
 
-**A.** Плюсы моего приложения - это бесплатность, простота настройки и современный интерфейс(UI к сожалению тяжелый). Также я сам обкатывал концепцию этого приложения на стримах. Аналоги же обычно сложнее настраивать и нужно потратить тонну времени на это, несмотря на призрачно лучший итоговый результат. Я потратил эту тонну времени за тебя и хочу что бы тебе было проще. Но конечный выбор всегда стоит за тобой.
+**A:** The advantages of my application are its free cost, easy setup, and modern interface (although the UI is unfortunately heavy). I personally tested the concept of this application during streams. Other alternatives are usually harder to configure and require a lot of time, despite a potentially better end result. I've invested the time for you to make it simpler. However, the final choice is always yours.
 
-**Q.** Приложение не запускается.
+**Q:** The application won't start.
 
-**A.** Перейди по пути "C:\Users\{Имя пользователя}\AppData\Roaming\BenderDeck 3.0" и удали файл settings.json (ВНИМАНИЕ! это удалит все твои настройки). Запусти приложение.
+**A:** Navigate to "C:\Users\{Username}\AppData\Roaming\BenderDeck 3.0" and delete the settings.json file (WARNING! This will delete all your settings). Then, restart the application.
 
-**Q.** У меня Windows 10, 8, 7 запустится ли твоё приложение?
+**Q:** Will your application run on Windows 10, 8, 7?
 
-**A.** Приложение собрано для Windows 10, 11 x64. Windows 8 и 7 не поддерживается. Тестировалось только на Windows 11.
+**A:** The application is built for Windows 10, 11 x64. It is not supported on Windows 8 and 7. It has been tested only on Windows 11.
 
-**Q.** Почему не сохранились настройки приложения?
+**Q:** Why didn't the application settings save?
 
-**A.** Настройки сохраняются в момент закрытия меню настроек. Убедись, что перед закрытием приложения меню настроек было закрыто.
+**A:** Settings are saved when the settings menu is closed. Make sure to close the settings menu before exiting the application.
 
+## Contact Me
+If you have any questions about the application, feel free to ask them in my [Discord](https://discord.com/invite/gaVrv6k).
 
-## Связь со мной
-Если у вас появились вопросы по приложению, вы можете их задать в моем [Discord-е](https://discord.com/invite/gaVrv6k).
-
-<sub>*Теги: Бесплатный StreamDeck, Stream Deck, Soundboard, Sound board, Free StreamDeck, Stream Deck аналоги, StreamDeck аналоги, OBS, для стримеров, горячая клавиша, hotkey, sound effects, Play SFX with hotkeys, Soundpad, Soundpad аналоги, AutoHotKey, AutoHotKey аналоги*</sub>
+<sub>*Tags: Stream Deck, Soundboard, Sound board, Free StreamDeck, Stream Deck alternatives, StreamDeck alternatives, OBS, For streamers, hotkey, sound effects, Play SFX with hotkeys, Soundpad, Soundpad alternatives, AutoHotKey, AutoHotKey alternatives*</sub>
