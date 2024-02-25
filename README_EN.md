@@ -31,31 +31,31 @@ You can report them on my [Discord](https://discord.com/invite/gaVrv6k).
 
 2. Click the settings menu button in the top left corner to open the settings.
 
-![](/Screenshots/2.png)
+![](/Screenshots/EN1.png)
 
 3. Click on "Add button" to add the desired number of buttons.
 
-![](/Screenshots/3.png)
+![](/Screenshots/EN8.png)
 
 4. Adjust the number of columns for better display.
 
-![](/Screenshots/4.png)
+![](/Screenshots/EN2.png)
 
 5. Click on the added button to configure it.
 
-![](/Screenshots/5.png)
+![](/Screenshots/EN3.png)
 
 6. Specify the hotkey that will play the audio file.
 
-![](/Screenshots/6.png)
+![](/Screenshots/EN4.png)
 
 7. Specify the audio file to be played when the key is pressed.
 
-![](/Screenshots/7.png)
+![](/Screenshots/EN5.png)
 
 8. Configure the remaining buttons.
 
-![](/Screenshots/8.png)
+![](/Screenshots/EN6.png)
 
 9. Close the settings menu. The application is now configured.
 
@@ -80,7 +80,7 @@ Before diving into the interface description, it's important to note that the wi
 5. Button currently playing an audio file simultaneously with the main button, i.e., with the "Individual playback" property enabled.
 
 ### Settings Menu
-![](/Screenshots/D2.png)
+![](/Screenshots/END1.png)
 
 1. Action "Add button" adds an empty button to the button grid.
 2. Adjusting the number of columns in the button grid.
@@ -89,12 +89,12 @@ Before diving into the interface description, it's important to note that the wi
 5. Link to the application's page.
 6. (X) Action to delete a button.
 
-![](/Screenshots/D4.png)
+![](/Screenshots/EN7.png)
 
 All buttons in the grid can be moved, and when clicked on a button in edit mode, the button properties window opens.
 
 ### Button Properties
-![](/Screenshots/D3.png)
+![](/Screenshots/END2.png)
 
 1. Button Name, which can be empty.
 2. Hotkey setting field. Clicking "Set" opens the hotkey assignment window. Clicking "Clear" clears the hotkey. If no hotkey is specified but an audio file is named, the button will play upon mouse click.
