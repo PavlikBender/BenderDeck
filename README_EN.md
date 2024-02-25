@@ -85,7 +85,7 @@ Before diving into the interface description, it's important to note that the wi
 1. Action "Add Button" adds an empty button to the button grid.
 2. Adjusting the number of columns in the button grid.
 3. Property enabling the application to stay on top of all windows.
-4. Setting the current language of the application - Russian and English languages are supported.
+4. Setting the current language of the application - English and Russian languages are supported.
 5. Link to the application's page.
 6. (X) Action to delete a button.
 
@@ -108,10 +108,6 @@ All buttons in the grid can be moved, and when clicked on a button in edit mode,
 **Q**: The sound does not play when I press the hotkey.
 
 **A**: Try selecting the audio file again. Check the volume settings. In some cases, the application might not capture the pressed key, so try running the application as an administrator.
-
-**Q**: Does the application support the Russian language?
-
-**A**: Yes, you can enable it in the settings menu at the bottom left corner.
 
 **Q**: Why do Windows Defender and antivirus programs flag your application?
 
