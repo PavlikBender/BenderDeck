@@ -2,6 +2,8 @@
 Бесплатное приложение для воспроизведения звука по нажатию клавиши для стримеров.
 ### [:arrow_right: Скачать последнюю версию](https://github.com/PavlikBender/BenderDeck/releases/download/v3.0/BenderDeckSetup.msi)
 #### Не забудьте поддержать меня: [DonationAlerts](https://www.donationalerts.com/r/pavlikbender) 
+
+**Внимание!** Приложение находится в стадии Beta и могут наблюдаться некоторые баги. Сообщить о них можно в моем [Discord-е](https://discord.com/invite/gaVrv6k).
 &nbsp;
 ## Быстрый старт
 1. Открой приложение.
