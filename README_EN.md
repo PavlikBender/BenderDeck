@@ -13,7 +13,7 @@ You can report them on my [Discord](https://discord.com/invite/gaVrv6k).
 
 ### Known Bugs
 1. Windows Defender may prevent downloading the installation file; you can resolve the issue by disabling real-time protection and cloud protection. **OR DOWNLOAD THE PORTABLE VERSION**. This behavior is due to the installer being unsigned; a digital signature is costly for me, and do not forget the application is free.
-2. **Presumably, it might be, not exactly, BUT** some antivirus programs **may** flag the application because it INTERCEPTS keystrokes, which the antivirus **may** interpret incorrectly. If you encounter this problem, you can solve it by adding the application to the antivirus exceptions.
+2. **Presumably, it might be, not exactly, BUT** some antivirus programs **may** prevent start of the application because it INTERCEPTS keystrokes, which the antivirus **may** interpret incorrectly. If you encounter this problem, you can solve it by adding the application to the antivirus exceptions.
 
 ## Table of Contents
 - [Quick Start](#quick-start)
@@ -109,9 +109,9 @@ All buttons in the grid can be moved, and when clicked on a button in edit mode,
 
 **A**: Try selecting the audio file again. Check the volume settings. In some cases, the application might not capture the pressed key, so try running the application as an administrator.
 
-**Q**: Why do Windows Defender and antivirus programs flag your application?
+**Q**: Why do Windows Defender and antivirus programs prevent downloading/start of your application?
 
-**A**: Windows Defender flags the installation file. To resolve this, disable real-time and cloud protection or download the portable version. This behavior is due to the installer lacking a certificate, which costs a lot while the application is free. Antivirus programs may flag the application because it intercepts keystrokes. Solution: add the application to the antivirus exceptions.
+**A**: Windows Defender prevent downloading the installation file. To resolve this, disable real-time and cloud protection or download the portable version. This behavior is due to the installer lacking a certificate, which costs a lot while the application is free. Antivirus programs may prevent start of the application because it intercepts keystrokes. Solution: add the application to the antivirus exceptions.
 
 **Q:** There is *APP NAME*, which is lighter and has better functionality. Why should I use your application?
 
