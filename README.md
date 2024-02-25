@@ -1,4 +1,6 @@
 # ![](/Screenshots/Square44x44Logo.altform-lightunplated_targetsize-32.png) BenderDeck 3.0 Beta
+
+### [:arrow_right: English version](https://github.com/PavlikBender/BenderDeck/blob/main/README_EN.md)
 Бесплатное приложение для воспроизведения звука по нажатию клавиши для стримеров.
 ### [:arrow_right: Скачать последнюю версию](https://github.com/PavlikBender/BenderDeck/releases/download/v3.0/BenderDeckSetup.msi)
 ### [:arrow_right: Скачать portable версию](https://github.com/PavlikBender/BenderDeck/releases/download/v3.0/BenderDeck.3.0.Portable.zip)
