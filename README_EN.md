@@ -132,4 +132,4 @@ All buttons in the grid can be moved, and when clicked on a button in edit mode,
 ## Contact Me
 If you have any questions about the application, feel free to ask them in my [Discord](https://discord.com/invite/gaVrv6k).
 
-<sub>*Tags: Stream Deck, Soundboard, Sound board, Free StreamDeck, Stream Deck alternatives, StreamDeck alternatives, OBS, For streamers, hotkey, sound effects, Play SFX with hotkeys, Soundpad, Soundpad alternatives, AutoHotKey, AutoHotKey alternatives*</sub>
+<sub>*Tags: Stream Deck, Soundboard, Sound board, Free StreamDeck, Stream Deck alternatives, StreamDeck alternatives, OBS, For streamers, hotkey, sound effects, Play SFX with hotkeys, Soundpad, Soundpad alternatives, AutoHotKey, AutoHotKey alternatives, HID Macros*</sub>
