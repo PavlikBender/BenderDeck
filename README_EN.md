@@ -12,7 +12,7 @@ Free soundboard app for streamers for playing sound effects with the press of a 
 You can report them on my [Discord](https://discord.com/invite/gaVrv6k).
 
 ### Known Bugs
-1. Windows Defender may prevent downloading the installation file. If you can't figure out how download and start installation simply ** DOWNLOAD THE PORTABLE VERSION**.
+1. Windows Defender may prevent downloading the installation file. If you can't figure out how to download and start installation, simply [**DOWNLOAD THE PORTABLE VERSION**](https://github.com/PavlikBender/BenderDeck/releases/download/v3.0/BenderDeck.3.0.Portable.zip).
 
 ## Table of Contents
 - [Quick Start](#quick-start)
