@@ -12,8 +12,8 @@ Free soundboard app for streamers for playing sound effects with the press of a 
 You can report them on my [Discord](https://discord.com/invite/gaVrv6k).
 
 ### Known Bugs
-1. Windows Defender may prevent downloading the installation file; you can resolve the issue by disabling real-time protection and cloud protection. **OR DOWNLOAD THE PORTABLE VERSION**. This behavior is due to the installer being unsigned; a digital signature is costly for me, and do not forget the application is free.
-2. **Presumably, it might be, not exactly, BUT** some antivirus programs **may** prevent start of the application because it INTERCEPTS keystrokes, which the antivirus **may** interpret incorrectly. If you encounter this problem, you can solve it by adding the application to the antivirus exceptions.
+Windows Defender может ругаться при скачивании установочного файла, если вы не смогли разобраться как скачать и запустить файл **СКАЧАЙТЕ PORTABLE ВЕРСИЮ.**
+1. Windows Defender may prevent downloading the installation file. If you can't figure out how download and start installation simply ** DOWNLOAD THE PORTABLE VERSION**.
 
 ## Table of Contents
 - [Quick Start](#quick-start)
