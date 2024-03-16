@@ -17,6 +17,7 @@ You can report them on my [Discord](https://discord.com/invite/gaVrv6k).
   - [Button Grid](#button-grid)
   - [Settings Menu](#settings-menu)
   - [Button Properties](#button-properties)
+  - [Devices](#devices)
 - [F.A.Q.](#frequently-asked-questions)
 - [Contact Me](#contact-me)
 
@@ -35,14 +36,14 @@ You can report them on my [Discord](https://discord.com/invite/gaVrv6k).
 
 ### Description
 
-I created this application to help streamers diversify their streams. The application allows you to instantly play any of your audio files by pressing a key on the keyboard or clicking with the mouse.
+I created this application to help streamers diversify their streams. The application allows you to instantly play any of your audio files by pressing a key on the keyboard or clicking with the mouse.It also supports connecting multiple keyboards and can recognize from which specific keyboard a key was pressed.
 
 Before diving into the interface description, it's important to note that the window sizes are strictly fixed and adjust automatically based on the number of buttons, columns configured, etc.
 
 ![](/Screenshots/Resizability.gif)
 
 ### Button Grid
-![](/Screenshots/D1.png)
+![](/Screenshots/ButtonGrid.png)
 
 1. Button that opens the settings menu.
 2. The basic element of the application is a Button. The Button is clickable and draggable. It displays its label and configured hotkey (both properties can be empty).
@@ -50,7 +51,7 @@ Before diving into the interface description, it's important to note that the wi
 5. Button currently playing an audio file simultaneously with the main button, i.e., with the "Individual playback" property enabled.
 
 ### Settings Menu
-![](/Screenshots/END1.png)
+![](/Screenshots/MenuEn.png)
 
 1. Action "Add button" adds an empty button to the button grid.
 2. Adjusting the number of columns in the button grid.
@@ -64,14 +65,26 @@ All buttons in the grid can be moved, and when clicked on a button in edit mode,
 ![](/Screenshots/Moving.gif)
 
 ### Button Properties
-![](/Screenshots/END2.png)
+![](/Screenshots/ButtonEn.png)
 
 1. Button Name, which can be empty.
 2. Hotkey setting field. Clicking "Set" opens the hotkey assignment window. Clicking "Clear" clears the hotkey. If no hotkey is specified but an audio file is named, the button will play upon mouse click.
-4. Audio file selection field for playback. Clicking "Choose" opens a file selection window for MP3 and WAV formats. If the button name is empty, it is automatically filled with the file name. Clicking "Clear" clears the "Filename" property.
-5. Playback volume of the audio file, defaulting to 50 out of 100.
-6. "Start-Stop" function determines the behavior of a playing button when the hotkey is pressed again. By default, playback restarts, but with "Start-Stop" enabled, another press stops playback.
+3. Audio file selection field for playback. Clicking "Choose" opens a file selection window for MP3 and WAV formats. If the button name is empty, it is automatically filled with the file name. Clicking "Clear" clears the "Filename" property.
+4. Playback volume of the audio file, defaulting to 50 out of 100.
+5. The behavior determines how a button will behave when activated by pressing a hotkey:
+   - "Start over": if the file is already playing, pressing the hotkey again will restart the playback of the file. This behavior is set as default.
+   - "Start-Stop": if the file is already playing, pressing the hotkey again will stop the playback.
+   - "Hold to play": the file will play only when the hotkey is held down; releasing the key will stop the playback.
+
+6. The "Ignore device" function, when enabled, allows a button to play if the same hotkey is pressed on different devices. By default, this function is disabled. For example, enable this if you have two keyboards and want the sound to play when pressing NumPad1 on any of these keyboards.
 7. "Individual playback" function defines how the button will play. By default, when a button is playing and another is clicked, the first stops and the second starts. With "Individual playback" enabled, the first button continues playing alongside the second. This feature allows for playing multiple buttons simultaneously.
+
+### Devices
+![](/Screenshots/DevicesEn.png)
+
+1. The list of devices that the application has discovered throughout its entire work-time.
+2. The displayed device name, editable field.
+3. The path to the device. Information by which the application recognizes a specific device.
 
 ## Frequently Asked Questions
 
