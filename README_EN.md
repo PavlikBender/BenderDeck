@@ -1,7 +1,7 @@
 # ![](/Screenshots/Square44x44Logo.altform-lightunplated_targetsize-32.png) BenderDeck 3.0 Beta
 Free soundboard app for streamers for playing sound effects with the press of a key.
-### [:arrow_right: Download the latest version](https://github.com/PavlikBender/BenderDeck/releases/download/v3.0/BenderDeckSetup.msi)
-### [:arrow_right: Download the portable version](https://github.com/PavlikBender/BenderDeck/releases/download/v3.0/BenderDeck.3.0.Portable.zip)
+### [:arrow_right: Download the latest version](https://github.com/PavlikBender/BenderDeck/releases/download/v3.0.1/BenderDeck301.zip)
+### [:arrow_right: Download the portable version](https://github.com/PavlikBender/BenderDeck/releases/download/v3.0.1/BenderDeck301Portable.zip)
 
 *The portable version is launched through the file BenderDeck.exe*
 
@@ -10,9 +10,6 @@ Free soundboard app for streamers for playing sound effects with the press of a 
 ### **Attention!** The application is in the Beta stage, and some bugs and issues may occur.
 
 You can report them on my [Discord](https://discord.com/invite/gaVrv6k).
-
-### Known Bugs
-1. Windows Defender may prevent downloading the installation file. If you can't figure out how to download and start installation, simply [**DOWNLOAD THE PORTABLE VERSION**](https://github.com/PavlikBender/BenderDeck/releases/download/v3.0/BenderDeck.3.0.Portable.zip).
 
 ## Table of Contents
 - [Quick Start](#quick-start)
@@ -24,51 +21,25 @@ You can report them on my [Discord](https://discord.com/invite/gaVrv6k).
 - [Contact Me](#contact-me)
 
 ### Quick Start
-1. Open the application.
+1. Setup button grid.
 
-![](/Screenshots/1.png)
+![](/Screenshots/QS1En.gif)
 
-2. Click the settings menu button in the top left corner to open the settings.
+2. Configure button.
 
-![](/Screenshots/EN1.png)
+![](/Screenshots/QS2En.gif)
 
-3. Click on "Add button" to add the desired number of buttons.
+3. Click on the configured button or press the hotkey.
 
-![](/Screenshots/EN8.png)
-
-4. Adjust the number of columns for better display.
-
-![](/Screenshots/EN2.png)
-
-5. Click on the added button to configure it.
-
-![](/Screenshots/EN3.png)
-
-6. Specify the hotkey that will play the audio file.
-
-![](/Screenshots/EN4.png)
-
-7. Specify the audio file to be played when the key is pressed.
-
-![](/Screenshots/EN5.png)
-
-8. Configure the remaining buttons.
-
-![](/Screenshots/EN6.png)
-
-9. Close the settings menu. The application is now configured.
-
-![](/Screenshots/9.png)
-
-10. Press the hotkey or click on the configured button.
-
-![](/Screenshots/10.png)
+![](/Screenshots/QS3.gif)
 
 ### Description
 
 I created this application to help streamers diversify their streams. The application allows you to instantly play any of your audio files by pressing a key on the keyboard or clicking with the mouse.
 
 Before diving into the interface description, it's important to note that the window sizes are strictly fixed and adjust automatically based on the number of buttons, columns configured, etc.
+
+![](/Screenshots/Resizability.gif)
 
 ### Button Grid
 ![](/Screenshots/D1.png)
@@ -88,9 +59,9 @@ Before diving into the interface description, it's important to note that the wi
 5. Link to the application's page.
 6. (X) Action to delete a button.
 
-![](/Screenshots/EN7.png)
-
 All buttons in the grid can be moved, and when clicked on a button in edit mode, the button properties window opens.
+
+![](/Screenshots/Moving.gif)
 
 ### Button Properties
 ![](/Screenshots/END2.png)
