@@ -1,8 +1,8 @@
 # ![](/Screenshots/Square44x44Logo.altform-lightunplated_targetsize-32.png) BenderDeck 3.0 Beta
 
 Бесплатное приложение для воспроизведения звука по нажатию клавиши для стримеров.
-### [:arrow_right: Скачать последнюю версию](https://github.com/PavlikBender/BenderDeck/releases/download/v3.0.1/BenderDeck301.zip)
-### [:arrow_right: Скачать portable версию](https://github.com/PavlikBender/BenderDeck/releases/download/v3.0.1/BenderDeck301Portable.zip)
+### [:arrow_right: Скачать последнюю версию](https://github.com/PavlikBender/BenderDeck/releases/download/v3.0.2/BenderDeck302.zip)
+### [:arrow_right: Скачать portable версию](https://github.com/PavlikBender/BenderDeck/releases/download/v3.0.2/BenderDeck302Portable.zip)
 
 *Portable версия запускается через файл BenderDeck.exe*
 
