@@ -56,9 +56,10 @@ Before diving into the interface description, it's important to note that the wi
 1. Action "Add button" adds an empty button to the button grid.
 2. Adjusting the number of columns in the button grid.
 3. Property enabling the application to stay on top of all windows.
-4. Setting the current language of the application - English and Russian languages are supported.
-5. Link to the application's page.
-6. (X) Action to delete a button.
+4. Action "Devices", opens list of [devices](#devices).
+5. Setting the current language of the application - English and Russian languages are supported.
+6. Link to the application's page.
+7. (X) Action to delete a button.
 
 All buttons in the grid can be moved, and when clicked on a button in edit mode, the button properties window opens.
 
@@ -68,7 +69,7 @@ All buttons in the grid can be moved, and when clicked on a button in edit mode,
 ![](/Screenshots/ButtonEn.png)
 
 1. Button Name, which can be empty.
-2. Hotkey setting field. Clicking "Set" opens the hotkey assignment window. Clicking "Clear" clears the hotkey. If no hotkey is specified but an audio file is named, the button will play upon mouse click.
+2. Hotkey setting field. Clicking "Set" opens the hotkey assignment window. Clicking "Clear" clears the hotkey. Additionally, the app remembers from which device the key was pressed. If no hotkey is specified but an audio file is named, the button will play upon mouse click.
 3. Audio file selection field for playback. Clicking "Choose" opens a file selection window for MP3 and WAV formats. If the button name is empty, it is automatically filled with the file name. Clicking "Clear" clears the "Filename" property.
 4. Playback volume of the audio file, defaulting to 50 out of 100.
 5. The behavior determines how a button will behave when activated by pressing a hotkey:
