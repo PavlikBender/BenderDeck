@@ -1,7 +1,7 @@
 # ![](/Screenshots/Square44x44Logo.altform-lightunplated_targetsize-32.png) BenderDeck 3.0 Beta
 Free soundboard app for streamers for playing sound effects with the press of a key.
-### [:arrow_right: Download the latest version](https://github.com/PavlikBender/BenderDeck/releases/download/v3.0.1/BenderDeck301.zip)
-### [:arrow_right: Download the portable version](https://github.com/PavlikBender/BenderDeck/releases/download/v3.0.1/BenderDeck301Portable.zip)
+### [:arrow_right: Download the latest version](https://github.com/PavlikBender/BenderDeck/releases/download/v3.0.2/BenderDeck302.zip)
+### [:arrow_right: Download the portable version](https://github.com/PavlikBender/BenderDeck/releases/download/v3.0.2/BenderDeck302Portable.zip)
 
 *The portable version is launched through the file BenderDeck.exe*
 
