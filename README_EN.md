@@ -108,10 +108,6 @@ All buttons in the grid can be moved, and when clicked on a button in edit mode,
 
 **A**: Try selecting the audio file again. Check the volume settings. In some cases, the application might not capture the pressed key, so try running the application as an administrator.
 
-**Q**: Why do Windows Defender and antivirus programs prevent downloading/start of your application?
-
-**A**: Windows Defender prevent downloading the installation file. To resolve this, disable real-time and cloud protection or download the portable version. This behavior is due to the installer lacking a certificate, which costs a lot while the application is free. Antivirus programs may prevent start of the application because it intercepts keystrokes. Solution: add the application to the antivirus exceptions.
-
 **Q:** There is *APP NAME*, which is lighter and has better functionality. Why should I use your application?
 
 **A:** The advantages of my application are its free cost, easy setup, and modern interface (although the UI is unfortunately heavy). I personally tested the concept of this application during streams. Other alternatives are usually harder to configure and require a lot of time, despite a potentially better end result. I've invested the time for you to make it simpler. However, the final choice is always yours.
