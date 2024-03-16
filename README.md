@@ -2,8 +2,8 @@
 
 ### [:arrow_right: English version](https://github.com/PavlikBender/BenderDeck/blob/main/README_EN.md)
 Бесплатное приложение для воспроизведения звука по нажатию клавиши для стримеров.
-### [:arrow_right: Скачать последнюю версию](https://github.com/PavlikBender/BenderDeck/releases/download/v3.0/BenderDeckSetup.msi)
-### [:arrow_right: Скачать portable версию](https://github.com/PavlikBender/BenderDeck/releases/download/v3.0/BenderDeck.3.0.Portable.zip)
+### [:arrow_right: Скачать последнюю версию](https://github.com/PavlikBender/BenderDeck/releases/download/v3.0.1/BenderDeck301.zip)
+### [:arrow_right: Скачать portable версию](https://github.com/PavlikBender/BenderDeck/releases/download/v3.0.1/BenderDeck301Portable.zip)
 
 *Portable версия запускается через файл BenderDeck.exe*
 
@@ -12,9 +12,6 @@
 ### **Внимание!** Приложение находится в стадии Beta и могут наблюдаться некоторые баги и проблемы. 
 
 Сообщить о них можно в моем [Discord-е](https://discord.com/invite/gaVrv6k).
-
-## Известные баги
-1. Windows Defender может ругаться при скачивании установочного файла, если вы не смогли разобраться как скачать и запустить файл [**СКАЧАЙТЕ PORTABLE ВЕРСИЮ**](https://github.com/PavlikBender/BenderDeck/releases/download/v3.0/BenderDeck.3.0.Portable.zip).
 
 ## Оглавление
 - [Быстрый старт](#быстрый-старт)
